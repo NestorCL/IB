@@ -1,0 +1,11 @@
+/**
+  * Universidad de La Laguna
+  * Escuela Superior de Ingeniería y Tecnología
+  * Grado en Ingeniería Informática
+  * Informática Básica 2025-2026
+  *
+  * @file
+  * @author Néstor Cozzi Lorenzo alu0101705385@ull.edu.es
+  * @date
+  * @brief
+  */
