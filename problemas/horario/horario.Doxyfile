@@ -1,0 +1,5 @@
+# Doxyfile 
+PROJECT_NAME = "horario" 
+OUTPUT_DIRECTORY = "build" 
+INPUT = "src include" 
+RECURSIVE = YES 
